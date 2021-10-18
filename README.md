@@ -1,5 +1,7 @@
 # NLW Heat - Mission: Impulse
-![GitHub](https://img.shields.io/github/license/EstherMarie/NLW_Heat)
+
+![GitHub](https://img.shields.io/github/license/EstherMarie/NLW_Heat?logo=mit)
+
 > Projeto criado durante o evento Next Level Week Heat da Rocketseat.
 
 ## Tecnologias
