@@ -1,5 +1,5 @@
-import { Request, Response } from "express"
-import { AuthenticateUserService } from "../services/AuthenticateUserService"
+import { Request, Response } from "express";
+import { AuthenticateUserService } from "../services/AuthenticateUserService";
 
 
 class AuthenticateUserController {
@@ -8,9 +8,13 @@ class AuthenticateUserController {
     const { code } = request.body;
 
     const service = new AuthenticateUserService();
-    const result = await service.execute(code);
+    try {
+      const result = await service.execute(code);
+      response.json(result);
+    } catch (err) {
+      response.json({ error: err.message });
+    }
 
-    response.json(result);
   }
 }
 

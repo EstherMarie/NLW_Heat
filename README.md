@@ -1,4 +1,4 @@
-# NLW Heat - Mission: Impulse
+# NLW Heat
 
 ![GitHub](https://img.shields.io/github/license/EstherMarie/NLW_Heat?logo=mit)
 
