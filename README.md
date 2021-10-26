@@ -8,9 +8,7 @@
 
 - TypeScript
 - ReactJS
-- React Native
 - Node.js
-- Elixir
 
 ## Links
 
