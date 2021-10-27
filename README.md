@@ -1,6 +1,7 @@
 # NLW Heat
 
-![GitHub](https://img.shields.io/github/license/EstherMarie/NLW_Heat?logo=mit)
+![GitHub](https://img.shields.io/github/license/EstherMarie/NLW_Heat)
+
 
 > Projeto criado durante o evento Next Level Week Heat da Rocketseat.
 
